@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*" />
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.module</mask>
+    <mask>*.hphp</mask>
+    <mask>*.ctp</mask>
+    <mask>*.phtml</mask>
+    <mask>*.png</mask>
+    <mask>amqp.php</mask>
+    <mask>*.css</mask>
+    <mask>log4j.php</mask>
+    <mask>ajaxdownload.php</mask>
+    <mask>*.js</mask>
+    <mask>route.php</mask>
+    <mask>common.php</mask>
+    <mask>*.php</mask>
+    <mask>database.php</mask>
+    <mask>scf.php</mask>
+    <mask>*.*</mask>
+  </component>
+</application>

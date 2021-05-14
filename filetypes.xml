@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="ENV" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="._user_scfkey.key" type="PLAIN_TEXT" />
+      <mapping pattern="._voice_captcha.key" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="city_id][cityname]" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="thrift" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

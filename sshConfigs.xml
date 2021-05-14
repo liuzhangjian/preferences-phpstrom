@@ -1,0 +1,27 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="21bf40db-26d6-4121-876d-48f8c59c9d83" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="20a8b262-e382-47cd-9442-7d25b68a1144" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="19d17a1f-ca68-49cc-b726-1f19609a110d" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="81443183-cb6b-4413-93df-12a420278bc1" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="fc79f546-9ed6-4806-b360-08ab3330b7cb" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="04284f23-78e3-45a1-a177-9c802e9c6819" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="9a96bb15-4c96-4b41-b037-9ee7e6577103" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
