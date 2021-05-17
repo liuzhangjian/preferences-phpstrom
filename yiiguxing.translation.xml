@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="Concurrent" />
+      <item value="并发&#10;" />
+      <item value="bing f" />
+      <item value="bing fa" />
+      <item value="bing" />
+      <item value="限制提交次数" />
+      <item value="限制ti jiao" />
+      <item value="xi" />
       <item value="优化&#10;" />
       <item value="bark" />
       <item value="ba" />
@@ -47,19 +55,11 @@
       <item value="banners" />
       <item value="anners" />
       <item value="ann" />
-      <item value="git" />
-      <item value="guan'guang" />
-      <item value="official" />
-      <item value="offi" />
-      <item value="o" />
-      <item value="command" />
-      <item value="ganged" />
-      <item value="katrina" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
