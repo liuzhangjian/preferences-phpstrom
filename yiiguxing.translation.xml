@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="offiaccount" />
       <item value="Concurrent" />
       <item value="并发&#10;" />
       <item value="bing f" />
@@ -54,11 +55,10 @@
       <item value="banners apper" />
       <item value="banners" />
       <item value="anners" />
-      <item value="ann" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
+        <entry key="CHINESE" value="99" />
         <entry key="ENGLISH" value="87" />
       </map>
     </option>
