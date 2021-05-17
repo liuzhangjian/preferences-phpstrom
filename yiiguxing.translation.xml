@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="优化&#10;" />
       <item value="bark" />
       <item value="ba" />
       <item value="no dumb questions" />
@@ -54,12 +55,11 @@
       <item value="command" />
       <item value="ganged" />
       <item value="katrina" />
-      <item value="badges" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
