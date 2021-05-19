@@ -5,8 +5,10 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
-      <item value="auth&#10;" />
+      <item value="授权" />
+      <item value="shou" />
       <item value="auth" />
+      <item value="auth&#10;" />
       <item value="Incorporation" />
       <item value="公司" />
       <item value="inc" />
@@ -53,13 +55,11 @@
       <item value="banners appear in the upper-right corner" />
       <item value="banners appear in the upper-right con" />
       <item value="banners appear in the upper-right" />
-      <item value="banners appear in the upper-rig" />
-      <item value="banners appear in the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="114" />
       </map>
     </option>
   </component>
