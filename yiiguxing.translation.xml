@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="Incorporation" />
+      <item value="公司" />
+      <item value="inc" />
+      <item value="in c" />
       <item value="grant" />
       <item value="offiaccount" />
       <item value="Concurrent" />
@@ -51,15 +55,11 @@
       <item value="banners appear in the" />
       <item value="banners appear" />
       <item value="banners app" />
-      <item value="banners appe" />
-      <item value="banners apperar" />
-      <item value="banners apper" />
-      <item value="banners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
