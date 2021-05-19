@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="gender" />
       <item value="授权" />
       <item value="shou" />
       <item value="auth" />
@@ -54,12 +55,11 @@
       <item value="banners appear in the upper-right corner and" />
       <item value="banners appear in the upper-right corner" />
       <item value="banners appear in the upper-right con" />
-      <item value="banners appear in the upper-right" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
