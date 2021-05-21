@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="spelling" />
+      <item value="spe" />
+      <item value="s" />
       <item value="convert" />
       <item value="gender" />
       <item value="授权" />
@@ -52,13 +55,10 @@
       <item value="banners appear in the upper-right corner and go away automatically." />
       <item value="banners appear in the upper-right corner and go away" />
       <item value="banners appear in the upper-right corner and go awa" />
-      <item value="banners appear in the upper-right corner and go w" />
-      <item value="banners appear in the upper-right corner and" />
-      <item value="banners appear in the upper-right corner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
+        <entry key="CHINESE" value="132" />
         <entry key="ENGLISH" value="115" />
       </map>
     </option>
