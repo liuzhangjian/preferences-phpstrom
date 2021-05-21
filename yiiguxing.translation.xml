@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="chocolate" />
       <item value="spelling" />
       <item value="spe" />
       <item value="s" />
@@ -54,11 +55,10 @@
       <item value="banners appear in the upper-right corner and go away automatically.Al" />
       <item value="banners appear in the upper-right corner and go away automatically." />
       <item value="banners appear in the upper-right corner and go away" />
-      <item value="banners appear in the upper-right corner and go awa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
+        <entry key="CHINESE" value="133" />
         <entry key="ENGLISH" value="115" />
       </map>
     </option>
