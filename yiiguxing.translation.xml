@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="must be of the type array" />
       <item value="Instance" />
       <item value="get Batch Rent Url" />
       <item value="chocolate" />
@@ -54,11 +55,10 @@
       <item value="mute" />
       <item value="banners appear in the upper-right corner and go away automatically.Alerts stay on screen until dismissed" />
       <item value="banners appear in the upper-right corner and go away automatically.Alerts stay" />
-      <item value="banners appear in the upper-right corner and go away automatically.Al" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
+        <entry key="CHINESE" value="134" />
         <entry key="ENGLISH" value="117" />
       </map>
     </option>
