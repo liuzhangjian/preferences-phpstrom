@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="专业" />
+      <item value="zhu" />
+      <item value="zh" />
+      <item value="pro" />
       <item value="Throwable" />
       <item value="must be of the type array" />
       <item value="Instance" />
@@ -51,15 +55,11 @@
       <item value="d" />
       <item value="mute notice" />
       <item value="mute noti" />
-      <item value="mute note" />
-      <item value="mute " />
-      <item value="mute" />
-      <item value="banners appear in the upper-right corner and go away automatically.Alerts stay on screen until dismissed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="127" />
       </map>
     </option>
   </component>
