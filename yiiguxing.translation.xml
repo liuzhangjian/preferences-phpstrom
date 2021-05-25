@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="storm" />
+      <item value="st" />
+      <item value="s" />
       <item value="日程" />
       <item value="r" />
       <item value="ri" />
@@ -24,7 +27,6 @@
       <item value="chocolate" />
       <item value="spelling" />
       <item value="spe" />
-      <item value="s" />
       <item value="convert" />
       <item value="gender" />
       <item value="授权" />
@@ -53,12 +55,10 @@
       <item value="du" />
       <item value="overtrue" />
       <item value="available" />
-      <item value="over't'r" />
-      <item value="firewall" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
+        <entry key="CHINESE" value="156" />
         <entry key="ENGLISH" value="137" />
       </map>
     </option>
