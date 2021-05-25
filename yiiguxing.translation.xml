@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="533" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="日程" />
+      <item value="r" />
+      <item value="ri" />
+      <item value="event" />
       <item value="grant" />
       <item value="common" />
       <item value="june" />
@@ -51,15 +55,11 @@
       <item value="available" />
       <item value="over't'r" />
       <item value="firewall" />
-      <item value="fi" />
-      <item value="privacy" />
-      <item value="disturb" />
-      <item value="dist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="137" />
       </map>
     </option>
   </component>
