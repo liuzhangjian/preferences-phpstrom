@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="keeper" />
+      <item value="keep" />
       <item value="karwenao" />
       <item value="karwen" />
       <item value="karw" />
@@ -53,12 +55,10 @@
       <item value="bing f" />
       <item value="bing fa" />
       <item value="bing" />
-      <item value="限制提交次数" />
-      <item value="限制ti jiao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
+        <entry key="CHINESE" value="166" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
