@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="Suggestions" />
       <item value="pet" />
       <item value="keeper" />
       <item value="keep" />
@@ -54,11 +55,10 @@
       <item value="Concurrent" />
       <item value="并发&#10;" />
       <item value="bing f" />
-      <item value="bing fa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
+        <entry key="CHINESE" value="168" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
