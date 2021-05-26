@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="info queue" />
+      <item value="queue" />
       <item value="hebrew" />
       <item value="alternate calendler" />
       <item value="alternate calend" />
@@ -53,12 +55,10 @@
       <item value="chocolate" />
       <item value="spelling" />
       <item value="spe" />
-      <item value="convert" />
-      <item value="gender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
+        <entry key="CHINESE" value="174" />
         <entry key="ENGLISH" value="143" />
       </map>
     </option>
