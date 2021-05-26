@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="Regularhu" />
+      <item value="schedule" />
+      <item value="s" />
       <item value="lunar" />
       <item value="Suggestions" />
       <item value="pet" />
@@ -22,7 +25,6 @@
       <item value="karwendao" />
       <item value="storm" />
       <item value="st" />
-      <item value="s" />
       <item value="日程" />
       <item value="r" />
       <item value="ri" />
@@ -53,12 +55,10 @@
       <item value="inc" />
       <item value="in c" />
       <item value="offiaccount" />
-      <item value="Concurrent" />
-      <item value="并发&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
+        <entry key="CHINESE" value="171" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
