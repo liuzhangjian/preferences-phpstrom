@@ -28,6 +28,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="2f75db56-1a3b-4346-baf9-b2c084f17441" port="22" customName="borker-dev" nameFormat="CUSTOM" username="evans">
         <option name="customName" value="borker-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.249.6.120" id="8b0d2570-0901-4b85-81da-2c620edf87d0" port="22" customName="borker-dev" nameFormat="CUSTOM">
+        <option name="customName" value="borker-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

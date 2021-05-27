@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="jensence" />
       <item value="房屋贷款&#10;房屋贷款还款" />
       <item value="房屋贷款还款&#10;房屋贷款还款" />
       <item value="房屋贷款还款" />
@@ -54,11 +55,10 @@
       <item value="storm" />
       <item value="st" />
       <item value="日程" />
-      <item value="r" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
+        <entry key="CHINESE" value="209" />
         <entry key="ENGLISH" value="175" />
       </map>
     </option>
