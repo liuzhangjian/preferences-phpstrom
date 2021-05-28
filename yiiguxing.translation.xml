@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="quantity" />
+      <item value="commodity Type" />
+      <item value="deliver Goods" />
+      <item value="Commodity" />
+      <item value="deduct Integral" />
       <item value="commodity" />
       <item value="s Fail" />
       <item value="deal" />
@@ -50,16 +55,11 @@
       <item value="karwen" />
       <item value="karw" />
       <item value="a" />
-      <item value="Invokes the reflected method and pass its arguments as array." />
-      <item value="laruence&#10;karwence" />
-      <item value="laruence&#10;karw" />
-      <item value="laruence" />
-      <item value="karwence" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="184" />
       </map>
     </option>
   </component>
