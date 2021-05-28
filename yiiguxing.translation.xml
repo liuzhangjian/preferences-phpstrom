@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="deliver Goods" />
       <item value="quantity" />
       <item value="commodity Type" />
-      <item value="deliver Goods" />
       <item value="Commodity" />
       <item value="deduct Integral" />
       <item value="commodity" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="185" />
       </map>
     </option>
   </component>
