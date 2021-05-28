@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="commodity" />
       <item value="s Fail" />
       <item value="deal" />
       <item value="array" />
@@ -54,12 +55,11 @@
       <item value="laruence&#10;karw" />
       <item value="laruence" />
       <item value="karwence" />
-      <item value="karwendao" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="ENGLISH" value="179" />
       </map>
     </option>
   </component>
