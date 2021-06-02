@@ -5,6 +5,23 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="一分钟" />
+      <item value="yi feng z" />
+      <item value="yi" />
+      <item value="yi f" />
+      <item value="t" />
+      <item value="分" />
+      <item value="接受" />
+      <item value="jie shou" />
+      <item value="j" />
+      <item value="ji" />
+      <item value="秒" />
+      <item value="miao" />
+      <item value="m" />
+      <item value="延时" />
+      <item value="yan shi" />
+      <item value="yan s" />
+      <item value="yan sh" />
       <item value="deliver Goods" />
       <item value="quantity" />
       <item value="commodity Type" />
@@ -38,33 +55,16 @@
       <item value="alternate calendler" />
       <item value="alternate calend" />
       <item value="alternate " />
-      <item value="alternate" />
-      <item value="alter" />
-      <item value="al" />
-      <item value="alert" />
-      <item value="aler" />
-      <item value="Regularhu" />
-      <item value="schedule" />
-      <item value="s" />
-      <item value="lunar" />
-      <item value="Suggestions" />
-      <item value="pet" />
-      <item value="keeper" />
-      <item value="keep" />
-      <item value="karwenao" />
-      <item value="karwen" />
-      <item value="karw" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="228" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621824862366" />
+    <option name="lastTrimTime" value="1622636143782" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
