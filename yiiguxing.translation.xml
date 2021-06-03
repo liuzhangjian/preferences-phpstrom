@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="465" />
     <option name="newTranslationDialogY" value="402" />
     <histories>
+      <item value="void" />
       <item value="一分钟" />
       <item value="yi feng z" />
       <item value="yi" />
@@ -54,12 +55,11 @@
       <item value="hebrew" />
       <item value="alternate calendler" />
       <item value="alternate calend" />
-      <item value="alternate " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="ENGLISH" value="229" />
       </map>
     </option>
   </component>
